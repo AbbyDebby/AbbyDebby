@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abigail</h1>
 <h3 align="center">A passionate Data Scientist/Engineer from Ghana</h3>
 
-- 🔭 I’m currently working on **working on personal projects while I Learn new skills and sharpen existing ones for my new role as a Data Engineer at Amalitech.**
+- 🔭 I’m currently working on **personal projects while I Learn new skills and sharpen existing ones for my new role as a Data Engineer at Amalitech.**
 
-- 🌱 I’m currently learning **Apache Spark, Hadoop, Azure Data Factory**
+- 🌱 I’m currently learning **Apache Spark and a number of Azure services for Data Engineering.**
 
 - 👯 I’m looking to collaborate on **any Data Engineering projects that will challenge me to learn new things.**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on LinkedIn [https://github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)
 
-- 💬 Ask me about **Python, SQL, Resume Writing, Code Reviews, Deepfake, Computer Vision, Machine Learning, deepfakes**
+- 💬 Ask me about **Python, SQL, Resume Writing, Code Reviews, Deepfake, Computer Vision, Machine Learning, my passion for agriculture.**
 
 - 📫 How to reach me **abigail.wooley@amalitech.com**
 
