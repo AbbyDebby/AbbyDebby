@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, Resume Writing, Code Reviews, Deepfake, Computer Vision, Machine Learning, my passion for agriculture.**
 
-- 📫 How to reach me **abigail.wooley@amalitech.com**
+- 📫 How to reach me **abigail.woolley@amalitech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
