@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)
 
-- 📝 I regularly write articles on LinkedIn [https://github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)
+- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/abigail-woolley/](https://www.linkedin.com/in/abigail-woolley/)
 
 - 💬 Ask me about **Python, SQL, Resume Writing, Code Reviews, Deepfake, Computer Vision, Machine Learning, my passion for agriculture.**
 
