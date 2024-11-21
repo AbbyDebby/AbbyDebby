@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abigail</h1>
-<h3 align="center">A passionate Data Scientist/Engineer from Ghana</h3>
+<h3 align="center">A passionate Data Scientist/Engineer from SOMEWHERE</h3>
 
 - 🔭 I’m currently working on **personal projects while I Learn new skills and sharpen existing ones for my new role as a Data Engineer at Amalitech.**
 
